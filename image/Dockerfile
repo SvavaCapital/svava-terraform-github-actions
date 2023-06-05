@@ -1,4 +1,4 @@
-FROM danielflook/terraform-github-actions-base:latest
+FROM 239700674053.dkr.ecr.ap-south-1.amazonaws.com/stable-saas-v1-common:dflook-tf-gh-action
 
 ARG TARGETARCH
 
